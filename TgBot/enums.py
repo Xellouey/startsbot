@@ -1,0 +1,4 @@
+class Stickers:
+    RICH_CAT = "CAACAgUAAxkBAAEdgjJn1suiOjZVHiMp4PBQiQHQsxP-KQAC6AEAAt8fchm0CrytS_xhszYE"
+
+    RICH_DUCK = 'CAACAgIAAxkBAAEdglRn1toPllJ9-zV1U9IyazQlVHx16QACAwEAAladvQoC5dF4h-X6TzYE'

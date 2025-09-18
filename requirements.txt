@@ -1,0 +1,12 @@
+pydantic
+aiogram
+sqlalchemy
+colorama
+cachetools
+tonutils==0.2.4
+bs4
+aiohttp
+requests
+pytz
+httpx
+psutil
